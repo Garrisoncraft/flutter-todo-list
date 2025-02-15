@@ -2,7 +2,7 @@
  A Flutter-based task management application. Create, edit, delete tasks and Sort tasks. This application provides a simple yet effective way to manage your daily tasks with an intuitive interface and essential task management features. Built with Flutter for cross-platform compatibility and Hive for efficient local data storage.
 # Todo List App
 
-![App Screenshot](assets/home.png)
+![Home Image](mylist/assets/home.png)
 
 A simple yet powerful task management application built with Flutter. Manage your daily tasks efficiently with an intuitive interface and essential features.
 
@@ -57,7 +57,7 @@ A simple yet powerful task management application built with Flutter. Manage you
 
 | Task List Screen | Add Task Screen |
 |------------------|-----------------|
-| ![Task List](assets/list.png) | ![Add Task](assets/add.png) |
+| ![List Task](mylist/assets/list.png) | !![Add Task](mylist/assets/add.png) |
 
 ## Contributing
 
