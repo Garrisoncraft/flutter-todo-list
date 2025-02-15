@@ -1,6 +1,8 @@
+# flutter-todo-list
+ A Flutter-based task management application. Create, edit, delete tasks and Sort tasks. This application provides a simple yet effective way to manage your daily tasks with an intuitive interface and essential task management features. Built with Flutter for cross-platform compatibility and Hive for efficient local data storage.
 # Todo List App
 
-![App Screenshot](screenshots/screenshot1.png) <!-- Add actual screenshots later -->
+![App Screenshot](assets/home.png)
 
 A simple yet powerful task management application built with Flutter. Manage your daily tasks efficiently with an intuitive interface and essential features.
 
@@ -18,7 +20,7 @@ A simple yet powerful task management application built with Flutter. Manage you
 1. Ensure you have Flutter installed. If not, follow the [official installation guide](https://flutter.dev/docs/get-started/install)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/flutter-todo-list.git
+   git clone https://github.com/Garrisoncraft/flutter-todo-list.git
    ```
 3. Navigate to the project directory:
    ```bash
